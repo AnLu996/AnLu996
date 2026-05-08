@@ -55,9 +55,18 @@
 
 <div align="center"> 
   <a href="https://github.com/AnLu996">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnLu996&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="Andrea's GitHub stats" />
+    <img 
+      align="center" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=AnLu996&show_icons=true&include_all_commits=true&count_private=true&theme=react" 
+      alt="Andrea's GitHub stats" 
+    />
   </a>
+
   <a href="https://github.com/AnLu996">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnLu996&theme=react&line_height=40&hide=css" alt="Andrea's Top Languages" />
+    <img 
+      align="center" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnLu996&layout=compact&theme=react&hide=css&langs_count=8" 
+      alt="Andrea's Top Languages" 
+    />
   </a>
 </div>
